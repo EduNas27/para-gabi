@@ -1,32 +1,32 @@
-# Publicação no GitHub Pages
+ 💗 Para Gabi, minha flor de tangerina
 
-## 1. Coloque a música
-Copie seu MP3 para `audio/` e renomeie para `musica.mp3`.
-O player já procura `audio/musica.mp3`.
+Algumas coisas são difíceis de explicar, mas sempre encontram um jeito de florescer em palavras.
 
-## 2. Defina sua senha
-No Linux, execute no terminal (troque a frase entre aspas pela senha que você quer usar):
+Este pequeno projeto nasceu de um sentimento que já não cabia apenas dentro de mim.
 
-```bash
-printf %s 'SUA-SENHA-AQUI' | sha256sum
-```
+Desde 16 de agosto, quando nossos caminhos se cruzaram, muita coisa mudou. E, desde 26 de setembro, tenho a alegria de chamar você de minha namorada.
 
-Copie somente os 64 caracteres hexadecimais do resultado. Abra `index.html` e procure:
+Entre conversas, chamadas, risadas, timidez, nervosismo e tantos pequenos momentos, construímos algo nosso. Não se trata de deixar de ser quem somos para nos tornarmos um só, mas de aprender a coexistir, respeitando nossas individualidades e escolhendo caminhar lado a lado.
 
-```js
-const PASSWORD_SHA256 = "SUBSTITUA_PELO_HASH_SHA256_DA_SENHA";
-```
+Este site é uma pequena tentativa de reunir aquilo que às vezes minha voz não consegue expressar tão bem: meus sentimentos, minhas lembranças, meus poemas e todas as palavras que nasceram porque você existe.
 
-Substitua o texto dentro das aspas pelo hash gerado. Não coloque a senha em si no HTML.
+ 🌷 Para minha musa inspiradora
 
-## 3. Publique
-1. Crie um repositório no GitHub. Se quiser, deixe-o privado (isso não torna o site privado).
-2. Extraia este ZIP.
-3. Envie o conteúdo desta pasta para a raiz do repositório: `index.html`, `images/` e `audio/`.
-4. No GitHub, abra **Settings → Pages**.
-5. Em **Build and deployment**, selecione **Deploy from a branch**.
-6. Escolha a branch `main` e a pasta `/ (root)`, depois clique em **Save**.
-7. Aguarde o endereço aparecer na seção Pages.
+Gabi, você me inspira a escrever, a imaginar e a transformar sentimentos em palavras. É presença, carinho e luz nos meus dias.
 
-## Aviso importante sobre a senha
-Esta senha em JavaScript é apenas uma barreira casual. O HTML, o JavaScript, as imagens, o MP3 e os textos continuam públicos e podem ser acessados por quem souber inspecionar o site ou contornar a tela. O hash não transforma o GitHub Pages em hospedagem privada. Não use senha reutilizada nem coloque informações sensíveis. Para proteção real, é necessário autenticar no servidor (por exemplo, Cloudflare Access/Worker ou hospedagem com autenticação).
+Talvez eu nunca consiga colocar em um único texto tudo aquilo que sinto, mas espero que cada pedacinho deste projeto consiga transmitir um pouco do quanto você é especial para mim.
+
+ 💌 Uma pequena dedicatória
+
+> A vida é nada sem você  
+> É como o Sol sem ter a Lua  
+> Se amar é pecado eu vou pecar e amar e amar, amar, amar  
+> Vou ser sempre teu.
+
+Com amor,
+
+Edu — seu marinheiro azul 💙
+
+---
+
+<sub>Feito com carinho, algumas palavras, muita inspiração e um coração que encontrou em você sua flor de tangerina. 🍊</sub>
