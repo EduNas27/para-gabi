@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="images/edu-e-gabi-outono.png" alt="Edu e Gabi ao pôr do sol" width="800">
+</p>
+ 
+ 
  💗 Para Gabi, minha flor de tangerina
 
 Algumas coisas são difíceis de explicar, mas sempre encontram um jeito de florescer em palavras.
