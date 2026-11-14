@@ -31,10 +31,22 @@ Talvez eu nunca consiga colocar em um único texto tudo aquilo que sinto, mas es
 
 ## 💌 Uma pequena dedicatória
 
-<!-- COLE AQUI os versos da dedicatória, no formato:
-> primeiro verso  
-> segundo verso  
--->
+<## 💌 Uma pequena dedicatória
+
+Se existe algo que eu gostaria que você nunca esquecesse, é que, entre tantas possibilidades e caminhos que a vida poderia ter tomado, sou grato por nossos caminhos terem se cruzado.
+
+Não sei quantas páginas ainda escreveremos juntos, quantas músicas ainda vou dedicar a você ou quantas vezes vou me pegar sorrindo ao receber um simples "oi". Mas sei que, enquanto houver palavras em mim, sempre haverá um pouquinho de você nelas.
+
+E se algum dia me faltarem palavras, espero que você ainda consiga encontrar todo esse amor nas pequenas coisas, nos gestos e na maneira como continuo escolhendo você.
+
+> A vida é nada sem você  
+> É como o Sol sem ter a Lua  
+> Se amar é pecado eu vou pecar e amar e amar, amar, amar  
+> Vou ser sempre teu.
+
+**Com amor,**
+
+*Edu — seu marinheiro azul 💙*
 
 <p align="center">
 <img src="images/assinatura.svg" alt="Com amor, Edu — seu marinheiro azul" width="640">
