@@ -73,7 +73,7 @@ footer{background:#8a2d1d;padding:20px max(6vw,22px);display:flex;justify-conten
 #password-gate input:focus{border-color:var(--amber)}
 #password-gate button{padding:12px 26px;border:0;background:var(--tang);color:#fff;font:700 18px var(--px);cursor:pointer;box-shadow:4px 4px 0 var(--shade)}
 #password-gate .gate-error{min-height:1.4em;color:#ffb089}
-@media(max-width:540px){header{height:60px}.cover{min-height:85svh}.copy{font-size:18px}.song{align-items:flex-start;flex-direction:column}.song button{width:100%}.couple-portrait{aspect-ratio:4/3}}
+.pxheart{display:inline-block;width:1.05em;height:.82em;margin-left:.25em;vertical-align:-.04em;filter:drop-shadow(3px 3px 0 #7a1f12);animation:beat 1.6s steps(2,end) infinite}@keyframes beat{50%{transform:scale(1.15)}}@media(prefers-reduced-motion:reduce){.pxheart{animation:none}}@media(max-width:540px){header{height:60px}.cover{min-height:85svh}.copy{font-size:18px}.song{align-items:flex-start;flex-direction:column}.song button{width:100%}.couple-portrait{aspect-ratio:4/3}}
 </style>
 </head>
 <body>
@@ -81,7 +81,7 @@ footer{background:#8a2d1d;padding:20px max(6vw,22px);display:flex;justify-conten
 
 <div id="password-gate" role="dialog" aria-modal="true" aria-labelledby="gate-title">
   <div class="gate-card">
-    <h2 id="gate-title">Uma pequena surpresa 💗</h2>
+    <h2 id="gate-title">Uma pequena <span style="white-space:nowrap">surpresa <svg class="pxheart" viewBox="0 0 9 7" role="img" aria-label="coração" shape-rendering="crispEdges"><path d="M2 0h1v1h-1zM3 0h1v1h-1zM5 0h1v1h-1zM6 0h1v1h-1zM0 1h1v1h-1zM1 1h1v1h-1zM2 1h1v1h-1zM3 1h1v1h-1zM4 1h1v1h-1zM5 1h1v1h-1zM6 1h1v1h-1zM7 1h1v1h-1zM8 1h1v1h-1zM0 2h1v1h-1zM1 2h1v1h-1zM2 2h1v1h-1zM3 2h1v1h-1zM4 2h1v1h-1zM5 2h1v1h-1zM6 2h1v1h-1zM7 2h1v1h-1zM8 2h1v1h-1zM1 3h1v1h-1zM2 3h1v1h-1zM3 3h1v1h-1zM4 3h1v1h-1zM5 3h1v1h-1zM6 3h1v1h-1zM7 3h1v1h-1zM2 4h1v1h-1zM3 4h1v1h-1zM4 4h1v1h-1zM5 4h1v1h-1zM6 4h1v1h-1zM3 5h1v1h-1zM4 5h1v1h-1zM5 5h1v1h-1zM4 6h1v1h-1z" fill="#d4421a"/><path d="M2 0h1v1H2zM1 1h1v1H1z" fill="#f5a03a"/></svg></span></h2>
     <p>Esta página foi preparada com carinho. Digite a senha para continuar.</p>
     <form id="gate-form">
       <input id="gate-password" type="password" autocomplete="current-password"
